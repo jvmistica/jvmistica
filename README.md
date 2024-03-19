@@ -1,6 +1,6 @@
 Hi, I’m Joann.
 
-I enjoy automating tasks, learning/applying new tools, and writing documentation. Most of my projects are written in either Go or Python. I published some articles involving some of my Python projects at https://hubpages.com/@butterontoasts. When something sparks my curiosity, I want to learn how it works by trying to build it myself. This is also my way of practicing my coding and design skills. I'm always open for constructive feedback and I like helping people so feel free to reach out!
+I enjoy automating tasks, learning/applying new tools, and writing documentation. Most of my projects are written in either Go or Python. When something sparks my curiosity, I want to learn how it works by trying to build it myself. This is also my way of practicing my coding and design skills. I'm always open for constructive feedback and I like helping people so feel free to reach out!
 
 ---
 <b>Background</b>
