@@ -18,3 +18,17 @@ At the moment, I work mostly with Golang (Go), Google Cloud Platform (GCP), Post
 - photography
 - gardening
 - hydroponics
+
+---
+<b>Skills & Projects</b>
+- backend development
+  - [knowledge-base: CRUD and API development](https://github.com/jvmistica/knowledge-base-go)
+  - [chatbot: a telegram assistant for inventory management](https://github.com/jvmistica/telegram-assistant)
+- data engineering
+  - [use of data extraction and natural language processing in the context of true crime](https://github.com/jvmistica/true-crime)
+- automation
+  - [utilize Google Calendar to generate long weekend and holiday suggestions on Trello](https://github.com/jvmistica/holiday-planner-go)
+  - [convert minutes of the meeting from Gmail into structured action items on Trello](https://github.com/jvmistica/minutes-to-trello)
+  - [extract CSV attachments from Gmail emails and append the data to a Google Sheets spreadsheet](https://github.com/jvmistica/gmail-to-gsheets)
+- published tutorials
+  - https://hubpages.com/@butterontoasts 
