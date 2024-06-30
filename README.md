@@ -32,3 +32,5 @@ At the moment, I work mostly with Golang (Go), Google Cloud Platform (GCP), Post
   - [extract CSV attachments from Gmail emails and append the data to a Google Sheets spreadsheet](https://github.com/jvmistica/gmail-to-gsheets)
 - published tutorials
   - https://hubpages.com/@butterontoasts 
+
+I use vim, btw. ;)
