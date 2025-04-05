@@ -2,6 +2,14 @@ Hi, I’m Joann.
 
 I enjoy automating tasks, learning/applying new tools, and writing documentation. Most of my projects are written in either Go or Python. When something sparks my curiosity, I want to learn how it works by trying to build it myself. This is also my way of practicing my coding and design skills. I'm always open for constructive feedback and I like helping people so feel free to reach out!
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+
 ---
 <b>Background</b>
 
